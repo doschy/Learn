@@ -12,8 +12,6 @@
 
 - Solidity
 
-
-
 - linux, kali linux
 - quodes, vms
 - vpn
